@@ -38,7 +38,7 @@ The setting even shows up in NVIDIA App afterwards (read-only of course).
 
 ## The problem #1 — NVIDIA behavior
 
-> In certain configurations, a full-screen black overlay is triggered despite frame generation functioning correctly — suggesting the presence of an additional validation or enforcement layer.
+> A full-screen black overlay is consistently triggered despite frame generation functioning correctly — suggesting the presence of an additional validation or enforcement layer.
 
 The frames are being generated correctly, the FPS counter shows the expected values, but the image is effectively blocked by a black rectangle.
 
