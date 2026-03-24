@@ -46,9 +46,9 @@ The frames are being generated correctly, the FPS counter shows the expected val
 
 I used **[Ghidra](https://github.com/NationalSecurityAgency/ghidra)** (NSA's reverse engineering tool) to analyze `nvlddmkm.sys` — NVIDIA's kernel mode display driver.
 
-During the analysis, I was able to identify what appears to be the mechanism responsible for this overlay behavior.
+During the analysis, a string closely related to the observed overlay behavior was identified — along with what appears to be associated logic within the driver. Whether this is the primary mechanism responsible remains to be fully confirmed.
 
-> At this stage, this repository focuses on **analysis and understanding of the driver behavior**, rather than distributing or modifying any proprietary components.
+> At this stage, this repository focuses on documenting observations and sharing findings with the community.
 
 <img width="1623" height="924" alt="image" src="https://github.com/user-attachments/assets/03efe52f-170d-4e95-a4c2-7326ba83546e" />  
 
