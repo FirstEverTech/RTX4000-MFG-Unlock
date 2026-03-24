@@ -139,17 +139,17 @@ This is currently the main blocker for:
 
 Here's what my **RTX 4070 Ti** achieves with FG 3x/4x active:
 
-### 3DMark NVIDIA DLSS Feature Test (4K)
+### 3DMark NVIDIA DLSS Feature Test
 
-| Mode | DLSS Off | DLSS On | Multiplier |
-|------|----------|---------|------------|
-| FG 2x | 32.27 FPS | 125.16 FPS | 3.9x |
-| FG 3x | 32.16 FPS | 224.02 FPS | 7.0x |
-| FG 4x | 32.20 FPS | 291.56 FPS | 9.1x |
+| DLSS FG Mode | DLSS Off | DLSS On | Multiplier |
+|---------------------|----------|---------|------------|
+| Frame Generation 2x | 32.27 FPS | 125.16 FPS | 3.9x |
+| Frame Generation 3x | 32.16 FPS | 224.02 FPS | 7.0x |
+| Frame Generation 4x | 32.20 FPS | 291.56 FPS | 9.1x |
 
-| DLSS 4 - FG 2x | DLSS 4 - FG 3x | DLSS 4 - FG 4x |
+| DLSS 4 Frame Generation 2x | DLSS 4 Frame Generation 3x | DLSS 4 Frame Generation 4x |
 |:---------------:|:--------------:|:-------------------:|
-| ![Hardware Detection](https://github.com/user-attachments/assets/2ac22f03-4869-4302-8d53-a58d850e5250) | ![Security Check](https://github.com/user-attachments/assets/637b755e-240b-4ff9-8c1d-7e1120cef947) | ![Update Process](https://github.com/user-attachments/assets/9ab7252c-940a-4849-8d4c-7aa2eba55b09) |
+| ![DLSS 4 Frame Generation 2x](https://github.com/user-attachments/assets/2ac22f03-4869-4302-8d53-a58d850e5250) | ![DLSS 4 Frame Generation 3x](https://github.com/user-attachments/assets/637b755e-240b-4ff9-8c1d-7e1120cef947) | ![DLSS 4 Frame Generation 4x](https://github.com/user-attachments/assets/9ab7252c-940a-4849-8d4c-7aa2eba55b09) |
 
 **Official 3DMark results (verified, public):**  
 https://www.3dmark.com/compare/nd/580395/nd/580396/nd/580397
@@ -158,7 +158,7 @@ https://www.3dmark.com/compare/nd/580395/nd/580396/nd/580397
 
 ---
 
-### Cyberpunk 2077 Built-in Benchmark (Ray Tracing Overdrive, 4K)
+### Cyberpunk 2077 Built-in Benchmark (Ray Tracing: Overdrive 4K)
 
 | Mode | Avg FPS | Min FPS | Max FPS |
 |------|---------|---------|---------|
@@ -173,9 +173,9 @@ https://www.3dmark.com/compare/nd/580395/nd/580396/nd/580397
 - Frame-time graphs show identical patterns (scaled proportionally)  
 - Drops occur at identical moments across all modes  
 
-| DLSS 4 - FG 2x | DLSS 4 - FG 3x | DLSS 4 - FG 4x |
+| DLSS 4 Frame Generation 2x | DLSS 4 Frame Generation 3x | DLSS 4 Frame Generation 4x |
 |:---------------:|:--------------:|:-------------------:|
-| ![Hardware Detection](https://github.com/user-attachments/assets/d3b99a0a-a1060-4d7a-aef3-bf7c1c2be6ee) | ![Security Check](https://github.com/user-attachments/assets/ff6b3315-f1cb-46a3-84eb-6af3f3535d0d) | ![Update Process](https://github.com/user-attachments/assets/3aae4343-93ab-497c-a0dc-0156b21190ea) |
+| ![DLSS 4 Frame Generation 2x](https://github.com/user-attachments/assets/d3b99a0a-1060-4d7a-aef3-bf7c1c2be6ee) | ![DLSS 4 Frame Generation 3x](https://github.com/user-attachments/assets/ff6b3315-f1cb-46a3-84eb-6af3f3535d0d) | ![DLSS 4 Frame Generation 4x](https://github.com/user-attachments/assets/3aae4343-93ab-497c-a0dc-0156b21190ea) |
 
 > The frames are real. The games see them. The benchmarks confirm them.
 
