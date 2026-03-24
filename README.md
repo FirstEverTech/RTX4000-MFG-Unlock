@@ -6,8 +6,7 @@ Lately I've been diving into various projects — some of you might know my work
 — **[Universal Intel Wi-Fi and Bluetooth Drivers Updater](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater)**
 
 This time, I got interested in something that has been bothering me for a while:
-
-> **DLSS 4 Frame Generation 3x/4x on RTX 4000 series cards**
+## **DLSS 4 Frame Generation 3x/4x on RTX 4000 series cards**
 
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/d3197e51-cd9c-49b9-a389-af9c446c2f82" />
 
