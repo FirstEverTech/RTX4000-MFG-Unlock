@@ -1,8 +1,11 @@
 # NVIDIA GeForce RTX 4000 Series - DLSS 4 Frame Generation 3x/4x Unlock
 
-Lately I've been diving into various projects — some of you might know my work on the **[Universal Intel Chipset Device Updater](https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater)** and **[Universal Intel Wi-Fi and Bluetooth Drivers Updater](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater)** projects on GitHub.  
+Lately I've been diving into various projects — some of you might know my work on:
 
-This time I got interested in something that has been bothering me for a while:  
+— **[Universal Intel Chipset Device Updater](https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater)**  
+— **[Universal Intel Wi-Fi and Bluetooth Drivers Updater](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater)**
+
+This time, I got interested in something that has been bothering me for a while:
 
 > **DLSS 4 Frame Generation 3x/4x on RTX 4000 series cards**
 
