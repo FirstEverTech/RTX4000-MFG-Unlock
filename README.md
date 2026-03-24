@@ -145,9 +145,9 @@ Here's what my **RTX 4070 Ti** achieves with FG 3x/4x active:
 | Frame Generation 3x | 32.16 FPS | 224.02 FPS | 7.0x |
 | Frame Generation 4x | 32.20 FPS | 291.56 FPS | 9.1x |
 
-| [DLSS 4 Frame Generation 2x](https://www.3dmark.com/nd/580395) | [DLSS 4 Frame Generation 3x](https://www.3dmark.com/nd/580396) | [DLSS 4 Frame Generation 4x](https://github.com/user-attachments/assets/9ab7252c-940a-4849-8d4c-7aa2eba55b09) |
+| [DLSS 4 Frame Generation 2x](https://www.3dmark.com/nd/580395) | [DLSS 4 Frame Generation 3x](https://www.3dmark.com/nd/580396) | [DLSS 4 Frame Generation 4x](https://www.3dmark.com/nd/580397) |
 |:---------------:|:--------------:|:-------------------:|
-| ![DLSS 4 Frame Generation 2x](https://github.com/user-attachments/assets/2ac22f03-4869-4302-8d53-a58d850e5250) | ![DLSS 4 Frame Generation 3x](https://github.com/user-attachments/assets/637b755e-240b-4ff9-8c1d-7e1120cef947) | ![DLSS 4 Frame Generation 4x](https://www.3dmark.com/nd/580397) |
+| ![DLSS 4 Frame Generation 2x](https://github.com/user-attachments/assets/2ac22f03-4869-4302-8d53-a58d850e5250) | ![DLSS 4 Frame Generation 3x](https://github.com/user-attachments/assets/637b755e-240b-4ff9-8c1d-7e1120cef947) | ![DLSS 4 Frame Generation 4x](https://github.com/user-attachments/assets/9ab7252c-940a-4849-8d4c-7aa2eba55b09) |
 
 
 **Official 3DMark results (verified, public):**  
