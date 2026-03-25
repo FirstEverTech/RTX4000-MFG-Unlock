@@ -61,7 +61,7 @@ After enabling **Frame Generation 3x/4x on RTX 4000 series**, an unexpected beha
 
 ## Reverse engineering findings (nvlddmkm.sys)
 
-To investigate further, I performed **static analysis of `nvlddmkm.sys`** using [**Ghidra**](https://github.com/NationalSecurityAgency/ghidra).
+To investigate further, I performed **static analysis of `nvlddmkm.sys`** using [**Ghidra**](https://github.com/NationalSecurityAgency/ghidra), a tool developed by the National Security Agency.
 
 <img width="1623" height="924" alt="Ghidra" src="https://github.com/user-attachments/assets/0681a4d6-add6-4d17-bbc5-b71fabcbffa0" />
 
