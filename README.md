@@ -33,11 +33,11 @@ This raises a natural question:
 
 Activating FG 3x/4x on RTX 4000 is actually not that difficult — **[NVIDIA Profile Inspector](https://github.com/Orbmu2k/nvidiaProfileInspector)** allows you to set it globally, bypassing the lock in NVIDIA App.
 
-<img width="1000" height="693" alt="image" src="https://github.com/user-attachments/assets/45f94b2f-ed48-4a52-bc8c-6b75be757930" />
+<img width="1000" height="693" alt="image" src="https://github.com/user-attachments/assets/fadfc3cb-9865-4500-85d5-a278afbc6c5a" />
 
 The setting even shows up in NVIDIA App afterwards (read-only of course).
 
-<img width="1298" height="942" alt="image" src="https://github.com/user-attachments/assets/6823ffa5-5d0e-4ba2-851a-ec96ba38c463" />
+<img width="1298" height="942" alt="image" src="https://github.com/user-attachments/assets/85129b4f-39b9-4258-b5bd-fb13da1f48d3" />
 
 ---
 
