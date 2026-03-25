@@ -182,6 +182,19 @@ https://www.3dmark.com/compare/nd/580395/nd/580396/nd/580397
 
 > The frames are real. The games see them. The benchmarks confirm them.
 
+### Why these frames are real
+
+The generated frames are **not static or fake** – they respond to dynamic 3D scenes in real time. This is evident from:
+
+- **Cyberpunk 2077 benchmark** – it reports minimum, average, and maximum FPS. For FG 3x and 4x, these values scale proportionally to the 2x baseline, with identical frame-time patterns (drops occur at the exact same moments, just scaled).
+- **3DMark NVIDIA DLSS feature test** – the frame‑time graphs (visible when opening the test locally) show identical shapes across 2x, 3x, and 4x modes, confirming that the GPU is processing the same scene complexity and generating frames accordingly.
+
+Even though the screen is black during gameplay, the **GPU is fully executing MFG**, and the frames are captured correctly by benchmarks.
+
+<img width="1386" height="1267" alt="image" src="https://github.com/user-attachments/assets/c8de6107-6e8a-4826-bdcc-b1903c47432a" />
+
+The full 3DMark result files (`.3dmark-result`) are available in the [**Releases**](https://github.com/FirstEverTech/RTX4000-MFG-Unlock/releases) section. Download them and open locally in 3DMark to inspect the frame‑time graphs and verify the results yourself.
+
 ---
 
 ## A message to NVIDIA
