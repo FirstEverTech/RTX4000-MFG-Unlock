@@ -246,4 +246,4 @@ This project is maintained in my free time.
 
 - ⭐ Star the project  
 - 🔁 Share it  
-- 💬 Join the discussion  
+- 💬 Join the [**Discussion**](https://github.com/FirstEverTech/RTX4000-MFG-Unlock/discussions/1)
