@@ -215,6 +215,8 @@ RTX 4000 has a massive installed base. Expanding access to certain features coul
 3. Insights into Frame Generation scaling behavior  
 4. Any related research or documentation  
 
+Update: Verified on driver version 32.0.15.9597 – same behavior. See details in the Reverse engineering findings section.
+
 ---
 
 ## DISCLAIMER / LEGAL
