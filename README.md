@@ -243,14 +243,11 @@ This is important because it does **not** look like a simple fake FPS counter up
 
 It looks like a pipeline that is actually outputting additional presents in structured packets consistent with the selected multiplier.
 
-<img width="1980" height="938" alt="figure_1_present_excerpt" src="https://github.com/user-attachments/assets/6bcb3fe3-5e37-481a-85b2-1cfbeed282f0" />
-
-<img width="1620" height="977" alt="figure_3_rates" src="https://github.com/user-attachments/assets/ea5b1851-db10-42f7-ae0b-daa1c701ddf0" />
-
-<img width="1660" height="977" alt="figure_4_packet_sizes" src="https://github.com/user-attachments/assets/6c055dcd-ee58-492b-9e2f-6072a7b7416b" />
-
-<img width="1980" height="1017" alt="figure_2_delta_histogram" src="https://github.com/user-attachments/assets/1e9a0425-6e79-4b59-b49a-988e7dd93d70" />
-
+| Present events in a stable benchmark segment | Output present rate vs inferred base render cadence |
+|:---------------:|:--------------:
+| ![figure_1_present_excerpt](https://github.com/user-attachments/assets/6bcb3fe3-5e37-481a-85b2-1cfbeed282f0) | ![figure_3_rates](https://github.com/user-attachments/assets/ea5b1851-db10-42f7-ae0b-daa1c701ddf0) |
+| Packet size distribution | Inter-present interval distribution |
+| ![figure_4_packet_sizes](https://github.com/user-attachments/assets/6c055dcd-ee58-492b-9e2f-6072a7b7416b) | ![figure_2_delta_histogram](https://github.com/user-attachments/assets/1e9a0425-6e79-4b59-b49a-988e7dd93d70) |
 
 ---
 
