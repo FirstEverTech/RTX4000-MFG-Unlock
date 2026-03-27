@@ -302,6 +302,7 @@ The intended **Release** package for this stage of the project is:
   - `CP2077-fg4x.nsys-rep`
 - standalone supplementary analysis:
   - `RTX4000_MFG_Nsight_Technical_Note.md`
+  - `RTX4000_MFG_Nsight_Technical_Note.pdf`
 - optional figures exported from the analysis
 - optional benchmark artifacts such as `.3dmark-result` files
 
