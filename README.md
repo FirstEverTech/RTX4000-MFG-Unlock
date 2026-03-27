@@ -246,7 +246,7 @@ It looks like a pipeline that is actually outputting additional presents in stru
 | Present events in a stable benchmark segment | Output present rate vs inferred base render cadence |
 |:---------------:|:--------------:
 | ![figure_1_present_excerpt](https://github.com/user-attachments/assets/6bcb3fe3-5e37-481a-85b2-1cfbeed282f0) | ![figure_3_rates](https://github.com/user-attachments/assets/ea5b1851-db10-42f7-ae0b-daa1c701ddf0) |
-| Packet size distribution | Inter-present interval distribution |
+| Packet size distribution inferred from >12 ms inter-packet gaps | Inter-present interval distribution in the 20-40 s analysis window |
 | ![figure_4_packet_sizes](https://github.com/user-attachments/assets/6c055dcd-ee58-492b-9e2f-6072a7b7416b) | ![figure_2_delta_histogram](https://github.com/user-attachments/assets/1e9a0425-6e79-4b59-b49a-988e7dd93d70) |
 
 ---
