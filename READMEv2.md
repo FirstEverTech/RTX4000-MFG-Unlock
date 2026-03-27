@@ -182,7 +182,7 @@ But they do show that:
 
 <img width="1386" height="1267" alt="image" src="https://github.com/user-attachments/assets/c8de6107-6e8a-4826-bdcc-b1903c47432a" />
 
-The full 3DMark result files (.3dmark-result) are available in the Releases section.  
+The full 3DMark result files (`.3dmark-result`) are available in the [**Releases**](https://github.com/FirstEverTech/RTX4000-MFG-Unlock/releases) section.  
 Download them and open locally in 3DMark to inspect the frame‑time graphs and verify the results yourself.
 
 ---
