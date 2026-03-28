@@ -105,6 +105,9 @@ However, this was still useful research, because it revealed a few important thi
 - during this research, I also confirmed that it is possible to install **newly modified kernel drivers on Windows even with Secure Boot enabled**  
   *(details are intentionally not disclosed here)*
 
+<img width="1634" height="651" alt="image" src="https://github.com/user-attachments/assets/3352b3d5-38a9-4381-bd5f-5fff4fbfbec2" />
+
+
 So while that branch was **not** the black-screen switch, the work still uncovered valuable information about driver robustness and patch behavior.
 
 ---
