@@ -102,8 +102,7 @@ However, this was still useful research, because it revealed a few important thi
 
 - a precise low-level modification can alter driver behavior **without breaking the driver itself**
 - a carefully targeted invasive patch does **not necessarily corrupt or destabilize** the modified NVIDIA kernel driver
-- during this research, I also confirmed that it is possible to install **newly modified kernel drivers on Windows even with Secure Boot enabled**  
-  *(details are intentionally not disclosed here)*
+- during this research, I also confirmed that it is possible to install **newly modified kernel drivers on Windows even with Secure Boot enabled** *(details are intentionally not disclosed here)*
 
 <img width="1634" height="649" alt="image" src="https://github.com/user-attachments/assets/2bef48f0-25fd-46bf-a836-ddc15ed4a8f9" />
 
