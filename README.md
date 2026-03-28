@@ -136,7 +136,8 @@ Instead, the output appears to be **deliberately obscured**.
 
 The main outside reference that pushed me to keep digging is this video from Chinese media:
 
-- **Bilibili:** https://www.bilibili.com/video/BV1WZfZYxEtQ/?spm_id_from=333.1387.homepage.video_card.click
+- **NVIDIA GeForce RTX 4080 Laptop / Arch Linux / MFG 4x in Cyberpunk 2077**: [Video on Bilibili](https://www.bilibili.com/video/BV1nVAWeAEg1)
+- **NVIDIA GeForce RTX 4080 Laptop / Windows / MFG 4x in Cyberpunk 2077**: [Video on Bilibili](https://www.bilibili.com/video/BV1WZfZYxEtQ)
 
 This repository intentionally uses that video only as **external context / motivation**, not as the core proof.
 My own observations suggest that what is shown there is real and directionally consistent with my local results.
