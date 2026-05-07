@@ -2,7 +2,7 @@
 
 **IT Architect · Strategic Consultant · The Soloist Who Replaces a Full IT Orchestra**
 
-I am an IT architect and consultant who delivers global‑scale solutions alone – because I can.  
+I am an IT Architect & Engineer who delivers global‑scale solutions alone – because I can.
 I don’t just advise; I **build, fix, and improve** whatever is broken or outdated. Whether it’s a legacy system, a missing automation pipeline, or a hardware limitation that others call “impossible” – I step in and do the work that usually requires a whole cross‑functional team.
 
 > *“One person, team‑level results.”*
@@ -30,7 +30,7 @@ I’ve proven this with my open‑source work, my hardware projects, and years o
 
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
 
-[USB-C Hub](https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg)
+https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg
 
 **The smallest 10Gbps hub on the market (~43g).**  
 I designed the PCB, wrote the firmware, and handled production. Plug & play, USB‑C PD passthrough, illuminated ports – a complete hardware + software product from a single pair of hands.
