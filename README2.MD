@@ -29,10 +29,10 @@ I’ve proven this with my open‑source work, my hardware projects, and years o
 > Every project below shows a different face of my “orchestra” ability. Click the image or title to see the full story.
 
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
-**The smallest 10Gbps hub on the market (~43g).**  
+
 <img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg" />
 
-I designed the PCB, wrote the firmware, and handled production. Plug & play, USB‑C PD passthrough, illuminated ports – a complete hardware + software product from a single pair of hands.
+My first product under our brand – FirstEver 4-Port USB-C 10Gbps Gaming Hub. It is the smallest (43g / 1.5oz) USB-C 10Gbps hub on the market and has illuminated USB ports. It is available in the UK and you can buy it from our official online Shop and on eBay.
 
 ---
 
