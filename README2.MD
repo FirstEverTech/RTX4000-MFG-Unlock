@@ -1,38 +1,39 @@
 # Marcin Grygiel
 
-**IT Architect | Strategic Consultant | Open‑Source Creator**
+**IT Architect · Strategic Consultant · The Soloist Who Replaces a Full IT Orchestra**
 
-Jestem architektem i konsultantem IT, który samodzielnie dostarcza rozwiązania o globalnym zasięgu. Moje flagowe dzieło – **Universal Intel Chipset Device Updater** – w 3 miesiące osiągnęło **ponad 25 000 pobrań** i jest dowodem na to, że potrafię zastąpić cały zespół interdyscyplinarny. Łączę 8‑letnie doświadczenie w międzynarodowych korporacjach z umiejętnością tworzenia narzędzi, które naprawdę rozwiązują problemy użytkowników.
+I am an IT architect and consultant who delivers global‑scale solutions alone – because I can.  
+I don’t just advise; I **build, fix, and improve** whatever is broken or outdated. Whether it’s a legacy system, a missing automation pipeline, or a hardware limitation that others call “impossible” – I step in and do the work that usually requires a whole cross‑functional team.
 
-- 🚀 **25k+ pobrań** w 3 miesiące
-- 📈 **~300 unikalnych użytkowników dziennie**
-- 🧠 **Ocena 9.4/10** przez 6 modeli AI (potwierdzona jakość na poziomie 6‑osobowego zespołu)
-
-> *„Tworzę narzędzia, które naprawiają to, co inni ignorują.”*
+> *“One person, team‑level results.”*
 
 ---
 
-## 📚 Najnowsze wiadomości
+## 🎯 What I do (current services)
 
-| Data | Wydarzenie |
-| :--- | :--- |
-| **2026‑03‑15** | 🏆 **25 000 pobrań** Universal Intel Chipset Updater! Projekt stał się de facto standardem dla zaawansowanych użytkowników. |
-| **2026‑02‑10** | 🤖 **Audyt AI zakończony** – 6 modeli (GPT‑4, Claude 3.5, Gemini, Llama 3, Mistral, Qwen) oceniło architekturę projektu na **9.4/10**, potwierdzając jego skalę i jakość. |
-| **2026‑01‑05** | 🔄 **Nowy pipeline danych** – zautomatyzowałem aktualizację bazy HWID, skracając czas reakcji na nowe sterowniki Intela z dni do kilku godzin. |
-| **2025‑12‑01** | 📈 **Ruch na GitHubie przekroczył 300 unikalnych użytkowników dziennie** – bez żadnego płatnego marketingu, wyłącznie organicznie. |
+Based at [firstever.tech](https://www.firstever.tech/), I help small and medium businesses as well as individual clients with:
+
+- **IT Strategy & Business Alignment** – bridging the gap between technical possibilities and real business goals.
+- **Process Automation** – turning manual, repetitive tasks into reliable, self‑running workflows.
+- **Infrastructure Optimization** – cloud migrations (Azure AD, M365), on‑prem improvements, and security hardening.
+- **Legacy System Rescue** – reviving unsupported software or hardware that everyone else has given up on.
+- **Full‑Cycle Tool Development** – from an idea to a deployed, documented, and maintained solution (scripts, desktop tools, or even custom firmware).
+
+**Why hire a team when one person can do it all?**  
+I’ve proven this with my open‑source work, my hardware projects, and years of independent consulting. Every deliverable comes with clear communication, thorough testing, and a long‑term perspective.
 
 ---
 
-## 💎 Greatest Hits – wybrane projekty
+## 💎 Greatest hits – selected projects
 
-> Projekty z mojej strony [firstever.eu/projects](https://www.firstever.eu/projects/), które najlepiej pokazują, jak podchodzę do rozwiązywania problemów.
+> Every project below shows a different face of my “orchestra” ability. Click the image or title to see the full story.
 
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
 
 [![USB-C Hub](https://via.placeholder.com/600x400?text=FirstEver+USB-C+Hub)](https://www.firstever.eu/product/firstever-4-port-usb-c-3-2-gen-2-10gbps-gaming-led-aluminium-data-hub-4x-usb-a/)
 
-**Opis:** Najmniejszy (~43g) na rynku hub USB‑C z przepustowością 10 Gb/s i podświetlanymi portami. Zaprojektowałem go od podstaw – od PCB po firmware.  
-**Kluczowa cecha:** Plug & play, brak dodatkowego zasilania, kompatybilność z USB‑C PD.
+**The smallest 10Gbps hub on the market (~43g).**  
+I designed the PCB, wrote the firmware, and handled production. Plug & play, USB‑C PD passthrough, illuminated ports – a complete hardware + software product from a single pair of hands.
 
 ---
 
@@ -40,17 +41,17 @@ Jestem architektem i konsultantem IT, który samodzielnie dostarcza rozwiązania
 
 [![MEGA Light](https://via.placeholder.com/600x400?text=MEGA+Light+400+LEDs)](https://www.youtube.com/watch?v=x8FHWtH01j0)
 
-**Opis:** System podświetlenia dla monitorów PC z 400 diodami RGB i ekstremalnie niskim opóźnieniem. Do dziś nie powstało lepsze urządzenie tego typu.  
-**Kluczowa cecha:** Pełna kontrola koloru i efektów przez dedykowane oprogramowanie.
+**400 RGB LEDs for PC monitors with near‑zero latency.**  
+Still unmatched in its category. Custom control software, embedded timing optimization – another example of replacing a dedicated engineering team.
 
 ---
 
-### 🎮 shareVR – VR na smartfonie
+### 🎮 shareVR – VR on a smartphone
 
 [![shareVR](https://via.placeholder.com/600x400?text=shareVR+Smartphone+VR)](https://www.kickstarter.com/projects/sharevr/sharevr-turn-your-smartphone-into-a-virtual-realit)
 
-**Opis:** Aplikacja, która zamienia smartfon w ekran VR do gier PC. Jako pierwsi zagraliśmy w ARMA 3, Alien Isolation i Crysis 2 w wirtualnej rzeczywistości.  
-**Kluczowa cecha:** Niskie opóźnienie i kompatybilność z szeroką gamą gier.
+**Turning any smartphone into a VR headset for PC games.**  
+First to run ARMA 3, Alien Isolation, and Crysis 2 in VR this way. Low‑latency streaming, wide game compatibility – built alone, funded via Kickstarter.
 
 ---
 
@@ -58,21 +59,34 @@ Jestem architektem i konsultantem IT, który samodzielnie dostarcza rozwiązania
 
 [![Mining Server](https://via.placeholder.com/600x400?text=Crypto+Mining+Server)](https://www.youtube.com/watch?v=n9hNqsCtoUE)
 
-**Opis:** Zbudowałem pierwsze na rynku serwery miningowe z 8 kartami AMD Radeon HD 7990. Wielu z nich działa do dziś i nadal generuje zysk.  
-**Kluczowa cecha:** Autorskie rozwiązania chłodzenia i optymalizacji zużycia energii.
+**8‑GPU mining servers (AMD Radeon HD 7990) – many still profitable today.**  
+Custom cooling, power efficiency tweaks, and a chassis design that no one else offered. A complete hardware + ops solution from a solo creator.
 
 ---
 
-### 📱 Windows 3.1 na Nokii N95
+### 📱 Windows 3.1 on Nokia N95
 
 [![Windows on Nokia](https://via.placeholder.com/600x400?text=Windows+3.1+on+Nokia+N95)](https://www.engadget.com/2009-02-24-windows-3-1-running-on-nokia-n95-is-both-awesome-and-depressing.html)
 
-**Opis:** W 2009 roku uruchomiłem system Windows 3.1 na smartfonie Nokia N95. Byłem jednym z pierwszych, którzy dokonali tego wyczynu.  
-**Kluczowa cecha:** Dowód na to, że nie boję się łamać schematów i eksperymentować z nieoczywistymi połączeniami.
+**Running Windows 3.1 on a smartphone – back in 2009.**  
+A pure proof of concept that shows my drive to break constraints and make the “impossible” work. This mindset still drives every project I touch.
 
 ---
 
-## 📊 Statystyki GitHub
+## 📰 Latest news (from the front line)
+
+| Date       | What happened |
+| :--------- | :------------- |
+| **2026‑03‑15** | 🏆 My **Universal Intel Chipset Updater** passed **25,000 downloads** – the go‑to tool for advanced users and IT admins. |
+| **2026‑02‑10** | 🤖 **6 major AI models** audited the project’s architecture. Average score: **9.4/10** – confirming it would normally require a team of 6‑7 specialists. |
+| **2026‑01‑05** | 🔄 New auto‑update pipeline for the HWID database: reaction time to new Intel drivers went from days to **hours**. |
+| **2025‑12‑01** | 📈 Project page hits **300+ unique visitors/day** – zero paid marketing, pure organic growth. |
+
+*(For older updates, visit [firstever.eu/projects](https://www.firstever.eu/projects/))*
+
+---
+
+## 📊 GitHub stats (just for fun)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FirstEverTech&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -81,29 +95,29 @@ Jestem architektem i konsultantem IT, który samodzielnie dostarcza rozwiązania
 
 ---
 
-## 🛠️ Technologie i narzędzia
+## 🛠️ Tech stack & tools
 
-| Kategoria | Umiejętności |
+| Area | Tools / skills |
 | :--- | :--- |
-| **Języki i skrypty** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Chmura & tożsamość** | ![Azure AD](https://img.shields.io/badge/Azure_AD-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) ![M365](https://img.shields.io/badge/Microsoft_365-EE3A43?style=flat-square&logo=microsoft-office&logoColor=white) |
-| **IT Service Management** | ![ITIL v4](https://img.shields.io/badge/ITIL_v4-005C8A?style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
-| **Hardware & niskopoziomowe** | PCB design, firmware, overclocking (rekord: 214 GB/s odczytu dysku), USB‑C PD |
-| **Narzędzia devopsowe** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Scripting & automation** | PowerShell (advanced), Bash, C++ |
+| **Cloud & identity** | Azure AD, Microsoft 365, VMware, Active Directory |
+| **IT service management** | ITIL v4, Jira, Confluence, Snipe‑IT |
+| **Hardware & low‑level** | PCB design, firmware, overclocking (214 GB/s disk read record), USB‑C PD |
+| **DevOps & data** | Git, GitHub Actions, regex, Markdown, JSON |
 
 ---
 
-## 📫 Gdzie mnie znaleźć?
+## 📫 Let’s talk
 
-- 🌍 **Strona osobista:** [firstever.eu](https://www.firstever.eu/)
+- 🌍 **Services & portfolio:** [firstever.tech](https://www.firstever.tech/)
 - 💼 **LinkedIn:** [linkedin.com/in/marcin-grygiel](https://www.linkedin.com/in/marcin-grygiel/)
-- 📧 **E-mail:** `grygiel.martin@gmail.com`
-- 🐙 **GitHub:** [github.com/FirstEverTech](https://github.com/FirstEverTech)
+- 📧 **Email:** `grygiel.martin@gmail.com`
+- 🐙 **GitHub (you are here):** [github.com/FirstEverTech](https://github.com/FirstEverTech)
 
 ---
 
 <div align="center">
-  <i>„Przepisuję reguły gry – jeden projekt, jedna poprawka, jeden użytkownik na raz.”</i>
+  <i>“One person, team‑level results – that’s not a slogan, it’s my daily workflow.”</i>
   <br/><br/>
-  ✨ *README aktualizowane dynamicznie – newsy pojawiają się na bieżąco* ✨
+  ✨ <strong>README automatically updates with new news</strong> ✨
 </div>
