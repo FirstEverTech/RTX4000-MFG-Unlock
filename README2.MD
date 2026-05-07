@@ -46,7 +46,7 @@ I built a security-focused tool that automatically detects your Intel wireless h
 
 ### 🎨 Adobe AVX2 Patch
 
-<img src="https://via.placeholder.com/600x400?text=Adobe+AVX2+Patch" />
+<img alt="Adobe AVX2 Patch Demo" src="https://github.com/user-attachments/assets/668a7a53-b0bf-46d2-9d4e-61976cc85f5c" />](https://www.youtube.com/watch?v=PaJg91RZIro)
 
 I built a lightweight tool that modifies Adobe standalone installer files, allowing installation of Adobe products (e.g., Photoshop 2026) on processors that support AVX but not AVX2. Adobe has restricted its latest products to processors with AVX2 — even though these products do not actually require AVX2 to run. My tool unlocks the installer without modifying any installed program files. It supports 21 Adobe Creative Cloud products, features a clean WinUI 3 interface with automatic light/dark mode, and runs without admin rights.
 
@@ -70,7 +70,7 @@ I released the first product under my brand – FirstEver 4-Port USB-C 10Gbps Ga
 
 ### 🖥️ MEGA Light – 400 RGB LEDs
 
-<img src="https://www.firstever.eu/wp-content/uploads/2023/04/Backlight.jpg" />
+<img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_6.jpg" />
 
 I built the best backlight system for PC monitors in the world. The project called MEGA Light with 400 RGB LEDs was completed in 2018 and to this day no better device has emerged. The device has 400 RGB LEDs and very high responsiveness.
 
@@ -78,7 +78,7 @@ I built the best backlight system for PC monitors in the world. The project call
 
 ### 🎮 shareVR – VR on a smartphone
 
-<img src="https://www.firstever.eu/wp-content/uploads/2023/04/shareVR.jpg" />
+<img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_3.jpg" />
 
 I created a start-up called shareVR, a software that allows you to use your smartphone as a screen for virtual reality goggles and play PC games. I was the first to play titles such as ARMA 3, Alien Isolation, Crysis 2 and Project CARS in VR.
 
@@ -86,7 +86,7 @@ I created a start-up called shareVR, a software that allows you to use your smar
 
 ### ⛏️ Mining Servers – Ethereum & Scrypt
 
-<img src="https://www.firstever.eu/wp-content/uploads/2023/04/mining.jpg" />
+<img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_2.jpg" />
 
 I built the first 8 GPU mining servers for Scrypt-based cryptocurrencies based on the most powerful AMD Radeon HD 7990 cards. In the following years, I built many Ethereum mining servers. Many of these servers are in operation until this day and continue to make a profit despite an increase in electricity charges.
 
@@ -94,7 +94,7 @@ I built the first 8 GPU mining servers for Scrypt-based cryptocurrencies based o
 
 ### 📱 Windows 3.1 on Nokia N95
 
-<img src="https://www.firstever.eu/wp-content/uploads/2023/04/Windows_on_Nokia.jpg" />
+<img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_1.jpg" />
 
 I ran the first Windows operating system on a Nokia N95 smartphone. You may have read about it on technology portals all over the world – "The most awesome – and pointless – hack in smartphone history" – BitTech. In the same year, the FirstEver website was created, the place for my future projects.
 
@@ -102,7 +102,7 @@ I ran the first Windows operating system on a Nokia N95 smartphone. You may have
 
 ### ✨ First VR Goggles with Built‑in Cooling
 
-<img src="https://www.firstever.eu/wp-content/uploads/2023/04/VR_goggles.jpg" />
+<img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_1.jpg" />
 
 I designed and built the first VR goggles with a built-in cooling system comprising two mini fans. This solved the problem with foggy headset lens issues.
 
