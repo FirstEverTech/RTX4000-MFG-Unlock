@@ -26,49 +26,69 @@ I’ve proven this with my open‑source work, my hardware projects, and years o
 
 ## 💎 Greatest hits – selected projects
 
-> Every project below shows a different face of my “orchestra” ability. Click the image or title to see the full story.
+> Every project below shows a different face of my "orchestra" ability. Click the image or title to see the full story.
 
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
 
 <img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg" />
 
-My first product under our brand – FirstEver 4-Port USB-C 10Gbps Gaming Hub. It is the smallest (43g / 1.5oz) USB-C 10Gbps hub on the market and has illuminated USB ports. It is available in the UK and you can buy it from our official online Shop and on eBay.
+I released the first product under my brand – FirstEver 4-Port USB-C 10Gbps Gaming Hub. It is the smallest (43g / 1.5oz) USB-C 10Gbps hub on the market and has illuminated USB ports. It is available in the UK and you can buy it from my official online Shop and on eBay.
 
 ---
 
-### 💡 MEGA Light – 400 RGB LED
+### 🖥️ MEGA Light – 400 RGB LEDs
 
-[![MEGA Light](https://via.placeholder.com/600x400?text=MEGA+Light+400+LEDs)](https://www.youtube.com/watch?v=x8FHWtH01j0)
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/Backlight.jpg" />
 
-**400 RGB LEDs for PC monitors with near‑zero latency.**  
-Still unmatched in its category. Custom control software, embedded timing optimization – another example of replacing a dedicated engineering team.
+I built the best backlight system for PC monitors in the world. The project called MEGA Light with 400 RGB LEDs was completed in 2018 and to this day no better device has emerged. The device has 400 RGB LEDs and very high responsiveness.
 
 ---
 
 ### 🎮 shareVR – VR on a smartphone
 
-[![shareVR](https://via.placeholder.com/600x400?text=shareVR+Smartphone+VR)](https://www.kickstarter.com/projects/sharevr/sharevr-turn-your-smartphone-into-a-virtual-realit)
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/shareVR.jpg" />
 
-**Turning any smartphone into a VR headset for PC games.**  
-First to run ARMA 3, Alien Isolation, and Crysis 2 in VR this way. Low‑latency streaming, wide game compatibility – built alone, funded via Kickstarter.
+I created a start-up called shareVR, a software that allows you to use your smartphone as a screen for virtual reality goggles and play PC games. I was the first to play titles such as ARMA 3, Alien Isolation, Crysis 2 and Project CARS in VR.
 
 ---
 
 ### ⛏️ Mining Servers – Ethereum & Scrypt
 
-[![Mining Server](https://via.placeholder.com/600x400?text=Crypto+Mining+Server)](https://www.youtube.com/watch?v=n9hNqsCtoUE)
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/mining.jpg" />
 
-**8‑GPU mining servers (AMD Radeon HD 7990) – many still profitable today.**  
-Custom cooling, power efficiency tweaks, and a chassis design that no one else offered. A complete hardware + ops solution from a solo creator.
+I built the first 8 GPU mining servers for Scrypt-based cryptocurrencies based on the most powerful AMD Radeon HD 7990 cards. In the following years, I built many Ethereum mining servers. Many of these servers are in operation until this day and continue to make a profit despite an increase in electricity charges.
+
+---
+
+### 💻 Universal Intel Chipset Device Updater
+
+<img src="https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater/raw/main/docs/images/logo.png" />
+
+I built an advanced, security-focused tool that automatically detects your Intel hardware and installs the latest official chipset INF files with enterprise-grade safety measures. Intel's official Chipset Device Software has evolved over 25 years into a complex, bloated package. My tool simplifies the process by automatically detecting and installing only the INF files your system actually needs — nothing more, nothing less.
 
 ---
 
 ### 📱 Windows 3.1 on Nokia N95
 
-[![Windows on Nokia](https://via.placeholder.com/600x400?text=Windows+3.1+on+Nokia+N95)](https://www.engadget.com/2009-02-24-windows-3-1-running-on-nokia-n95-is-both-awesome-and-depressing.html)
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/Windows_on_Nokia.jpg" />
 
-**Running Windows 3.1 on a smartphone – back in 2009.**  
-A pure proof of concept that shows my drive to break constraints and make the “impossible” work. This mindset still drives every project I touch.
+I ran the first Windows operating system on a Nokia N95 smartphone. You may have read about it on technology portals all over the world – "The most awesome – and pointless – hack in smartphone history" – BitTech. In the same year, the FirstEver website was created, the place for my future projects.
+
+---
+
+### ✨ First VR Goggles with Built‑in Cooling
+
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/VR_goggles.jpg" />
+
+I designed and built the first VR goggles with a built-in cooling system comprising two mini fans. This solved the problem with foggy headset lens issues.
+
+---
+
+### ⚡ First to Run Windows 7 on an Android Smartphone
+
+<img src="https://www.firstever.eu/wp-content/uploads/2023/04/w7.jpg" />
+
+I was the first to run Windows 7 on an Android smartphone thanks to x86 virtualization on an ARM processor.
 
 ---
 
