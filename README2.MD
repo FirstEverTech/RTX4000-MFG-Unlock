@@ -30,7 +30,8 @@ I’ve proven this with my open‑source work, my hardware projects, and years o
 
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
 
-https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg
+  <img width="600" alt="" title="FirstEver.tech"
+       src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg" />
 
 **The smallest 10Gbps hub on the market (~43g).**  
 I designed the PCB, wrote the firmware, and handled production. Plug & play, USB‑C PD passthrough, illuminated ports – a complete hardware + software product from a single pair of hands.
