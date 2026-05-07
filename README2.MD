@@ -28,6 +28,38 @@ I’ve proven this with my open‑source work, my hardware projects, and years o
 
 > Every project below shows a different face of my "orchestra" ability. Click the image or title to see the full story.
 
+### 💻 Universal Intel Chipset Device Updater
+
+<img src="https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater/raw/main/assets/FirstEverTech-logo.png" />
+
+I built an advanced, security-focused tool that automatically detects your Intel hardware and installs the latest official chipset INF files with enterprise-grade safety measures. Intel's official Chipset Device Software has evolved over 25 years into a complex, bloated package. My tool simplifies the process by automatically detecting and installing only the INF files your system actually needs — nothing more, nothing less.
+
+---
+
+### 📡 Universal Intel Wi-Fi and Bluetooth Drivers Updater
+
+<img src="https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/raw/main/assets/FirstEverTech-logo.png" />
+
+I built a security-focused tool that automatically detects your Intel wireless hardware and installs the latest official Wi-Fi and Bluetooth drivers with enterprise-grade safety measures. Intel distributes Wi-Fi and Bluetooth drivers as large CAB packages — but your system only needs the version that matches your specific adapter. My tool automatically identifies your hardware, fetches the correct driver package from official sources, verifies its integrity, and installs it cleanly — nothing more, nothing less.
+
+---
+
+### 🎨 Adobe AVX2 Patch
+
+<img src="https://via.placeholder.com/600x400?text=Adobe+AVX2+Patch" />
+
+I built a lightweight tool that modifies Adobe standalone installer files, allowing installation of Adobe products (e.g., Photoshop 2026) on processors that support AVX but not AVX2. Adobe has restricted its latest products to processors with AVX2 — even though these products do not actually require AVX2 to run. My tool unlocks the installer without modifying any installed program files. It supports 21 Adobe Creative Cloud products, features a clean WinUI 3 interface with automatic light/dark mode, and runs without admin rights.
+
+---
+
+### 🔬 RTX 4000 DLSS 4 Multi Frame Generation Research
+
+<img src="https://via.placeholder.com/600x400?text=RTX4000+MFG+Research" />
+
+This is my ongoing research into whether DLSS 4 Multi Frame Generation 3x/4x on RTX 4000 series GPUs is truly blocked by hardware or if at least part of the limitation is enforced in software. My working conclusion: forced MFG 3x/4x on the tested RTX 4070 Ti appears to generate and present additional frames at the pipeline level, but output is obscured by a black-image enforcement path that has not yet been fully neutralized. This is not a ready-made unlock package — it's a public research log documenting my findings and using tools like NVIDIA Nsight Systems and Ghidra static analysis.
+
+---
+
 ### 🔌 FirstEver 4‑Port USB‑C 10Gbps Gaming Hub
 
 <img src="https://www.firstever.eu/wp-content/uploads/2022/10/FE_Project_8.jpg" />
@@ -57,14 +89,6 @@ I created a start-up called shareVR, a software that allows you to use your smar
 <img src="https://www.firstever.eu/wp-content/uploads/2023/04/mining.jpg" />
 
 I built the first 8 GPU mining servers for Scrypt-based cryptocurrencies based on the most powerful AMD Radeon HD 7990 cards. In the following years, I built many Ethereum mining servers. Many of these servers are in operation until this day and continue to make a profit despite an increase in electricity charges.
-
----
-
-### 💻 Universal Intel Chipset Device Updater
-
-<img src="https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater/raw/main/docs/images/logo.png" />
-
-I built an advanced, security-focused tool that automatically detects your Intel hardware and installs the latest official chipset INF files with enterprise-grade safety measures. Intel's official Chipset Device Software has evolved over 25 years into a complex, bloated package. My tool simplifies the process by automatically detecting and installing only the INF files your system actually needs — nothing more, nothing less.
 
 ---
 
