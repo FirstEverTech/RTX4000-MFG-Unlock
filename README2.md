@@ -7,9 +7,8 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/FirstEverTech?style=social)](https://github.com/FirstEverTech)
 [![GitHub Followers](https://img.shields.io/github/followers/FirstEverTech?style=social)](https://github.com/FirstEverTech)
-![Profile Views](https://komarev.com/ghpvc/?username=FirstEverTech&color=blueviolet&style=flat-square&label=Profile+Views)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirstEverTech&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb)
+[![Profile Views](https://komarev.com/ghpvc/?username=FirstEverTech&style=flat-square&label=Profile+Views)](https://github.com/FirstEverTech)
+[![Total Downloads](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/FirstEverTech/downloads-stats/main/total-downloads.json&query=$.total_downloads&label=Total%20Downloads&style=social&logo=github)](https://github.com/FirstEverTech)
 
 ## Marcin Grygiel aka First Ever
 
