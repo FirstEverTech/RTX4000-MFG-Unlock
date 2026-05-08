@@ -1,4 +1,13 @@
-# Marcin Grygiel aka First Ever
+# FirstEver Technology / FirstEver.tech
+
+<a href="https://www.firstever.tech">
+  <img width="600" alt="" title="FirstEver.tech"
+       src="https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater/blob/main/assets/FirstEverTech-animation.gif" />
+</a>
+
+[![Marcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirstEverTech&show_icons=true&theme=radical)](https://github.com/FirstEverTech)
+
+## Marcin Grygiel aka First Ever
 
 **IT Architect · Strategic Consultant · The Soloist Who Replaces a Full IT Orchestra**
 
@@ -9,9 +18,9 @@ I don’t just advise; I **build, fix, and improve** whatever is broken or outda
 
 ---
 
-## 🎯 What I do (current services)
+## 🎯 What I do
 
-Based at [firstever.tech](https://www.firstever.tech/), I help small and medium businesses as well as individual clients with:
+Based at [FirstEver Technology](https://www.firstever.tech/), I help small and medium businesses as well as individual clients with:
 
 - **IT Strategy & Business Alignment** – bridging the gap between technical possibilities and real business goals.
 - **Process Automation** – turning manual, repetitive tasks into reliable, self‑running workflows.
@@ -19,7 +28,7 @@ Based at [firstever.tech](https://www.firstever.tech/), I help small and medium 
 - **Legacy System Rescue** – reviving unsupported software or hardware that everyone else has given up on.
 - **Full‑Cycle Tool Development** – from an idea to a deployed, documented, and maintained solution (scripts, desktop tools, or even custom firmware).
 
-**Why hire a team when one person can do it all?**  
+### **Why hire a team when one person can do it all?**  
 I’ve proven this with my open‑source work, my hardware projects, and years of independent consulting. Every deliverable comes with clear communication, thorough testing, and a long‑term perspective.
 
 ---
@@ -46,7 +55,7 @@ I built a security-focused tool that automatically detects your Intel wireless h
 
 ### 🎨 Adobe AVX2 Patch
 
-<img alt="Adobe AVX2 Patch Demo" src="https://github.com/user-attachments/assets/668a7a53-b0bf-46d2-9d4e-61976cc85f5c" />](https://www.youtube.com/watch?v=PaJg91RZIro)
+[<img width="640" height="" alt="Adobe AVX2 Patch Demo" src="https://github.com/user-attachments/assets/668a7a53-b0bf-46d2-9d4e-61976cc85f5c" />](https://www.youtube.com/watch?v=PaJg91RZIro)
 
 I built a lightweight tool that modifies Adobe standalone installer files, allowing installation of Adobe products (e.g., Photoshop 2026) on processors that support AVX but not AVX2. Adobe has restricted its latest products to processors with AVX2 — even though these products do not actually require AVX2 to run. My tool unlocks the installer without modifying any installed program files. It supports 21 Adobe Creative Cloud products, features a clean WinUI 3 interface with automatic light/dark mode, and runs without admin rights.
 
@@ -152,15 +161,7 @@ I was the first to run Windows 7 on an Android smartphone thanks to x86 virtuali
 
 ## 📫 Let’s talk
 
-- 🌍 **Services & portfolio:** [firstever.tech](https://www.firstever.tech/)
+- 🌍 **Business:** [firstever.tech](https://www.firstever.tech/)
 - 💼 **LinkedIn:** [linkedin.com/in/marcin-grygiel](https://www.linkedin.com/in/marcin-grygiel/)
-- 📧 **Email:** `grygiel.martin@gmail.com`
-- 🐙 **GitHub (you are here):** [github.com/FirstEverTech](https://github.com/FirstEverTech)
-
----
-
-<div align="center">
-  <i>“One person, team‑level results – that’s not a slogan, it’s my daily workflow.”</i>
-  <br/><br/>
-  ✨ <strong>README automatically updates with new news</strong> ✨
-</div>
+- 📧 **E-mail:** `contact@firstever.tech`
+- 🐙 **GitHub:** [github.com/FirstEverTech](https://github.com/FirstEverTech)
