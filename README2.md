@@ -5,7 +5,18 @@
        src="https://github.com/FirstEverTech/Universal-Intel-Chipset-Updater/blob/main/assets/FirstEverTech-animation.gif" />
 </a>
 
+
 [![GitHub Stars](https://img.shields.io/github/stars/FirstEverTech?style=for-the-badge&label=Stars)](https://github.com/FirstEverTech)[![GitHub Followers](https://img.shields.io/github/followers/FirstEverTech?style=for-the-badge)](https://github.com/FirstEverTech)[![Profile Views](https://komarev.com/ghpvc/?username=FirstEverTech&style=for-the-badge)](https://github.com/FirstEverTech)![Total Downloads](https://img.shields.io/badge/Total%20Downloads-68K+-blue?style=for-the-badge&label=Total+Downloads)
+
+
+<a href="https://github.com/FirstEverTech">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=FirstEverTech&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb" height="180" alt="GitHub Stats" />
+  </a>
+
+<a href="https://github.com/FirstEverTech">
+    <img src="https://streak-stats.demolab.com?user=FirstEverTech&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## Marcin Grygiel aka First Ever
 
@@ -15,6 +26,11 @@ I am an IT Architect & Engineer who delivers global‑scale solutions alone – 
 I don’t just advise; I **build, fix, and improve** whatever is broken or outdated. Whether it’s a legacy system, a missing automation pipeline, or a hardware limitation that others call “impossible” – I step in and do the work that usually requires a whole cross‑functional team.
 
 > *“One person, team‑level results.”*
+
+<a href="https://github.com/FirstEverTech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FirstEverTech&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" width="98%" alt="Activity Graph" />
+  </a>
+</p>
 
 ---
 
