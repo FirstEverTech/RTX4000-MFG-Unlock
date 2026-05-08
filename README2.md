@@ -54,8 +54,10 @@ Based at [**FirstEver Technology**](https://www.firstever.tech/), I help small a
   <!-- Adobe AVX2 Patch (2025) -->
   <tr>
     <td width="30%" style="border: none; vertical-align: top; padding: 0px 0;">
-      <img src="https://via.placeholder.com/600x400?text=Adobe+AVX2+Patch" style="width: 100%; max-width: 100%;" alt="Adobe AVX2 Patch">
-     </td>
+    <a href="https://www.youtube.com/watch?v=PaJg91RZIro">
+    <img alt="Adobe AVX2 Patch Demo" src="https://github.com/user-attachments/assets/668a7a53-b0bf-46d2-9d4e-61976cc85f5c" style="width: 100%; max-width: 100%;" />
+    </a>
+    </td>
     <td width="30%" style="border: none; vertical-align: top; padding: 0px 0;">
       <strong>Adobe AVX2 Patch (2025)</strong><br>
       I built a lightweight tool that modifies Adobe standalone installer files, allowing installation of Adobe products (e.g., Photoshop 2026) on processors that support AVX but not AVX2. Adobe has restricted its latest products to processors with AVX2 — even though these products do not actually require AVX2 to run. My tool unlocks the installer without modifying any installed program files. It supports 21 Adobe Creative Cloud products, features a clean WinUI 3 interface with automatic light/dark mode, and runs without admin rights.
